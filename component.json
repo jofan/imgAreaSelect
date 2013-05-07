@@ -1,0 +1,27 @@
+{
+  "name": "imgAreaSelect",
+  "repo": "jofan/imgAreaSelect",
+  "description": "Component of jQuery plugin of same name",
+  "version": "0.0.1",
+  "keywords": [
+    "ui",
+    "jquery",
+    "select",
+    "crop"
+  ],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT, GPL",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "imgAreaSelect.css"
+  ],
+  "files": [
+    "assets"
+  ]
+}
