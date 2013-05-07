@@ -9,7 +9,7 @@
 
 ## API
 
-   See (official website)[http://odyniec.net/projects/imgareaselect/]
+   See http://odyniec.net/projects/imgareaselect/
 
 ## License
 
