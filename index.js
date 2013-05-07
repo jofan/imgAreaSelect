@@ -729,4 +729,4 @@ $.fn.imgAreaSelect = function (options) {
     return this;
 };
 
-})(require(jquery));
+})(require('jquery'));
