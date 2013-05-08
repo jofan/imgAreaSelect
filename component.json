@@ -1,6 +1,6 @@
 {
   "name": "imgAreaSelect",
-  "repo": "jofan/imgAreaSelect",
+  "repo": "https://raw.github.com/jofan/imgAreaSelect",
   "description": "Component of jQuery plugin of same name",
   "version": "0.0.1",
   "keywords": [
@@ -22,6 +22,9 @@
     "imgAreaSelect.css"
   ],
   "files": [
-    "assets"
+    "assets/border-anim-h.gif",
+    "assets/border-anim-v.gif",
+    "assets/border-h.gif",
+    "assets/border-v.gif"
   ]
 }
