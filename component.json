@@ -10,7 +10,7 @@
     "crop"
   ],
   "dependencies": {
-    "component/jquery": "*"
+    "components/jquery": "*"
   },
   "development": {},
   "license": "MIT, GPL",
